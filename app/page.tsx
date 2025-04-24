@@ -180,7 +180,7 @@ export default function Timer() {
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 48 48"
-                  className="w-8 h-8"
+                  className="w-13 h-13"
                 >
                   {/* Outer circular motion indicators */}
                   <g opacity="0.9" strokeLinecap="round">
